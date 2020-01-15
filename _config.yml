@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 tittle: fdlogic
+description: This development shows the PCB of a switched power source for IoT oriented circuits. The goal is that it can provide sufficient energy for the desired project. 
+This circuit not only has the function of providing energy but it is small so it can be adaptable to IoT projects
